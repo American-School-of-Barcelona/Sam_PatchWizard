@@ -29,10 +29,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Magic Patch-It Wizard Gadget</h3>
 
   <p align="center">
-    project_description
+    Upload an image of your patch and watch it get magically* sititched onto your stuff! (*Disclaimer: product does not contain anything inherently magical, nor does it contain an embroidery machine or thread, both of which are nessecary for this.)
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
